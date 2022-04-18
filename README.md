@@ -26,5 +26,11 @@ As a senior data analyst at a Pharmaceutical company, based in San Diego, you ha
 
 ![Pandas: Mice Population by Gender](./Images/mice_population_by_gender_pandas.png)
 
-![Py[lot: Mice Population by Gender](./Images/mice_population_by_gender_pyplot.png)
+![Pandas: Mice Population by Gender](./Images/mice_population_by_gender_pyplot.png)
+
+## Boxplot
+> Boxplot to show the final tumor volume of each mouse across four regimens of interest
+
+![Pyplot: Mice Timepoints (Days) by Drug Regimen](./Images/mice_timepoints_by_drug_pyplot.png)
+
 

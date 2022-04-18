@@ -33,4 +33,13 @@ As a senior data analyst at a Pharmaceutical company, based in San Diego, you ha
 
 ![Boxplot: Mice Timepoint (Days) by Drug Regimen](./Images/tumor_volume_by_drug_regimen_boxplot.png)
 
+## Line and Scatter Plots
+> Line and Scatter Plots showed Capomulin treatment for mouse s185, mouse avergage tumor versus weight for Capomulin, mouse weight versus average tumor volume with correlation and regression
+
+![Line: Capomulin Treatment for Mouse s185](./Images/capomulin_tx_tumvol_line.png)
+
+![Scatter Plot: Mouse Average Tumor Volume vs Weight for Capomulin](./Images/avg_tumor_vol_weight_cap_scatter.png)
+
+![Scatter Plot: Mouse Weight vs Average Tumor Volume](./Images/mouse_wgt_tumor_volume_cap_corr_regress.png)
+
 

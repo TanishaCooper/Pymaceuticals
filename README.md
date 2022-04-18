@@ -24,3 +24,7 @@ As a senior data analyst at a Pharmaceutical company, based in San Diego, you ha
 
 ![Pyplot: Mice Timepoints (Days) by Drug Regimen](./Images/mice_timepoints_by_drug_pyplot.png)
 
+![Pandas: Mice Population by Gender](./Images/mice_population_by_gender_pandas)
+
+![Py[lot: Mice Population by Gender](./Images/mice_population_by_gender_pyplot)
+

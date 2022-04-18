@@ -20,4 +20,7 @@ As a senior data analyst at a Pharmaceutical company, based in San Diego, you ha
 ## Bar and Pie Charts
 > Bar charts were created using pandas and matplotlib that shows the number of mice for each drug regimen treatments by timepoint(days).
 
-![Mice Timepoints (Days) by Drug Regimen](./Images/mice_timepoints_by_drug_pandas.png)
+![Pandas: Mice Timepoints (Days) by Drug Regimen](./Images/mice_timepoints_by_drug_pandas.png)
+
+![Pyplot: Mice Timepoints (Days) by Drug Regimen](./Images/mice_timepoints_by_drug_pyplot.png)
+

@@ -1,3 +1,4 @@
+
 #   The Power of Plots
 ## Matplotlib
 ### Background
